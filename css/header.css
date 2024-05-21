@@ -1,0 +1,36 @@
+header {  
+  padding: 0 60px;
+}
+header div.wrap {
+  justify-content: space-between;
+  margin: auto;
+  align-items: center;
+  padding: 0 20px;
+  max-width: initial;
+  height: 80px;
+}
+header div.wrap h1 {
+  
+}
+header div.wrap h1 a {
+  
+  justify-self: space-between;
+}
+header div.wrap ul {
+  
+}
+header div.wrap ul li {
+  
+}
+header div.wrap ul li a {
+  
+}
+header div.wrap span {
+  
+}
+header div.wrap span a {
+  
+}
+header div.wrap span button {
+  
+}
